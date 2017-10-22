@@ -1,0 +1,7 @@
+Observable Trends:
+
+1. Temperatures are higher the closer you are to 0 latitude.
+
+2. Humidity and latitude don't appear to be related.
+
+3. The same can be said for cloudiness and windspeed.
